@@ -39,7 +39,8 @@ Lista con informacion sobre datasets, organizaciones, eventos y herramientas rel
 
 #### Politica
 
- - **Electorales**: 
+ - **Electorales**:
+ 	- Gasto Campañas electorales: http://www.cnecuentasclaras.com/
  	- La Registraduría publica resultados y tiene los de elecciones pasadas
 
  - **Lista asistencia de Senadores**:
