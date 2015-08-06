@@ -22,6 +22,8 @@ Lista con informacion sobre datasets, organizaciones, eventos y herramientas rel
 ### Chile
 
  - [deldichoalhecho](http://deldichoalhecho.cl/)
+ - [Portal de datos del gobierno de Chile](http://datos.gob.cl/)
+ - [Portal de datos de la Biblioteca del Congreso Nacional de Chile](http://datos.bcn.cl/)
 
 ### Colombia
 
