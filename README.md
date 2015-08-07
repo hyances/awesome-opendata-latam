@@ -2,42 +2,60 @@
 
 Lista con informacion sobre datasets, organizaciones, eventos y herramientas relacionadas con Open Data en Latinoamerica.
 
+## Index
+
+- [Conferencias / Organizaciones](#conferencias-org)
+- [Proyectos](#proyectos)
+	- [Generales](#proyectos-general)
+	- [Argentina](#proyectos-argentina)
+	- [Chile](#proyectos-chile)
+	- [Colombia](#proyectos-colombia)
+		- [Politica](#proyectos-colombia-politica)
+		- [Gasto Publico](#proyectos-colombia-gasto-publico)
+		- [Empleos Publicos](#proyectos-colombia-empleos-publico)
+		- [Justicia](#proyectos-colombia-justicia)
+		- [Geograficos](#proyectos-colombia-geograficos)
+		- [Otros](#proyectos-colombia-otros)
+	- [Peru](#proyectos-peru)
+	- [Uruguay](#proyectos-uruguay)
+
+
+<a name="confencias-org" />
 ## Conferencias / Organizaciones
 
  - [Abre Latam](http://www.abrelatam.org)
  - [Ciudadano Inteligente](https://github.com/ciudadanointeligente/)
  - [Opendata Latinoamerica](http://www.opendatalatinoamerica.org/home/)
 
+<a name="proyectos" />
 ## Proyectos
 
+<a name="proyectos-general" />
 ### General
 
  - [Poderopedia](http://www.poderopedia.org/)
  - [Latin American Open Data Sources: data-plumbing recipes and data-cleaning](https://github.com/spsaaibi/latamdataresources)
 
+<a name="proyectos-argentina" />
 ### Argentina
 
 - [La Nacion - data](http://www.lanacion.com.ar/data)
 
+<a name="proyectos-chile" />
 ### Chile
 
  - [deldichoalhecho](http://deldichoalhecho.cl/)
  - [Portal de datos del gobierno de Chile](http://datos.gob.cl/)
  - [Portal de datos de la Biblioteca del Congreso Nacional de Chile](http://datos.bcn.cl/)
 
+<a name="proyectos-colombia" />
 ### Colombia
 
  - [Congreso Visible](http://www.congresovisible.org/)
+ - [Datos.gov.co](http://datos.gov.co/)
 
-### Uruguay
- - [datauy.rog](http://datauy.org/)
-
-
-## Data sources Colombia
-
-- [Datos.gov.co](http://datos.gov.co/)
-
-#### Politica
+<a name="proyectos-colombia-politica" />
+##### Politica
 
  - **Electorales**:
  	- Gasto Campañas electorales: http://www.cnecuentasclaras.com/
@@ -46,14 +64,17 @@ Lista con informacion sobre datasets, organizaciones, eventos y herramientas rel
  - **Lista asistencia de Senadores**:
  	- La vi en algún momento, scrapeable pero con mucho dolor
 
- #### Gasto Publico
+<a name="proyectos-colombia-gasto-publico" />
+##### Gasto Publico
+ 
  - **Portal de transparencia económica**: 
  	-www.pte.gov.co
 
  - **Vias**: 
  	- Monitoreo de Contruccion de vias : https://monitoreoinvias.com
 
- #### Empleos Publicos
+<a name="proyectos-colombia-empleos-publico" />
+##### Empleos Publicos
 
  - **Empleados**: 
  	- Están todos en el sigep
@@ -61,7 +82,8 @@ Lista con informacion sobre datasets, organizaciones, eventos y herramientas rel
  - **Aspirantes**: 
  	-Para altos cargos, la presidencia saca lista que actualiza diariamente, sacando los ya nombrados o desechados. aspirantes.presidencia.gov.co
 
- #### Justicia
+<a name="proyectos-colombia-justicia" />
+##### Justicia
 
  - **Delitos politicos & Victimas**: 
  	- http://www.nocheyniebla.org/  (Base de datos civel)
@@ -74,7 +96,8 @@ Lista con informacion sobre datasets, organizaciones, eventos y herramientas rel
 	- www.consejodeestado.gov.co
 	- www.cortesuprema.gov.co
 
- #### Geograficos
+<a name="proyectos-colombia-geograficos" />
+##### Geograficos
  - **Datos de estaciones meteorológicas y climatológicas**: 
  	- http://www.ideam.gov.co/
  	- https://www.car.gov.co
@@ -84,11 +107,21 @@ Lista con informacion sobre datasets, organizaciones, eventos y herramientas rel
  	- http://www.igac.gov.co/
  	- http://lrgseddn3.cr.usgs.gov/
 
-
- #### Otros
+<a name="proyectos-colombia-otros" />
+##### Otros
   - **Registro de Solicitudes de Patentes  publicadas en Colombia**: 
   	- http://serviciospub.sic.gov.co/~oparra/serv_57/externas/datospatente.php
   	- http://www.sic.gov.co/drupal/base-de-datos
+
+<a name="proyectos-peru" />
+### Peru
+ - [ODPE](http://odpe.org/)
+ - [Datos Abiertos Peru](datosabiertos.pe)
+
+<a name="proyectos-uruguay" />
+### Uruguay
+ - [datauy.rog](http://datauy.org/)
+
 
 
 # Contributors?
