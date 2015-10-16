@@ -53,6 +53,9 @@ Lista con informacion sobre datasets, organizaciones, eventos y herramientas rel
 
  - [Congreso Visible](http://www.congresovisible.org/)
  - [Datos.gov.co](http://datos.gov.co/)
+ - [Datos Abiertos Cali](http://www.cali.gov.co/publicaciones/datos_abiertos_del_municipio_de_santiago_de_cali_pub)
+ - [Datos Abiertos Medellin](http://www.mdeinteligente.co/estrategia/quienes-somos/gobierno-abierto/)
+ - [Datos Abiertos Tulua](http://datos.tulua.gov.co/home/)
 
 <a name="proyectos-colombia-politica" />
 ##### Politica
