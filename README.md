@@ -114,6 +114,7 @@ Lista con informacion sobre datasets, organizaciones, eventos y herramientas rel
  - **Datos geográficos**:
  	- http://www.igac.gov.co/
  	- http://lrgseddn3.cr.usgs.gov/
+ 	- [Paraderos SIPT Bogota - SHP (Shape Files)](https://github.com/BogoMap/bogomap/tree/master/src/shp)
 
 <a name="proyectos-colombia-otros" />
 ##### Otros
