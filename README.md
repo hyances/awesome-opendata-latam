@@ -112,9 +112,11 @@ Lista con informacion sobre datasets, organizaciones, eventos y herramientas rel
  	- https://www.car.gov.co
 
  - **Datos geográficos**:
- 	- http://www.igac.gov.co/
+ 	- http://www.igac.gov.co/ **NOTA**: los datos geográficos de IGAC no son datos abiertos.
  	- http://lrgseddn3.cr.usgs.gov/
  	- [Paraderos SIPT Bogota - SHP (Shape Files)](https://github.com/BogoMap/bogomap/tree/master/src/shp)
+ 	- [Datos de OpenStreetMap - Crisis Humanitarias en Colombia](https://data.hdx.rwlabs.org/organization/hot?q=&ext_page_size=25&sort=score+desc%2C+metadata_modified+desc&groups=col#dataset-filter-start)
+ 	- [Otros extractos de OpenStreetMap](http://planet.osm.org/)
 
 <a name="proyectos-colombia-otros" />
 ##### Otros
